@@ -1,0 +1,23 @@
+[
+		{
+		"CatId":1,
+		"CatName":"SIAMES"
+	    },
+	   {
+		"CatId":2,
+		"CatName":´PÉ DURO"
+		},
+		{
+		"CatId":3,
+		"CatName":"ANGORA"
+		},
+		{
+		"CatId":4,
+		"CatName":"PERSA"
+		},
+		{
+		"CatId":5,
+		"CatName":"RAGDOLL",		
+       }
+
+]
